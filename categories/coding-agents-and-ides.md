@@ -1,8 +1,8 @@
 # Coding Agents & IDEs
 
-[← Back to main list](../README.md#table-of-contents)
+[← Back to main list](../README.md#table-of-contents) | [返回中文分类导航](./README.zh-CN.md)
 
-**1200 skills**
+**1200 skills | 1200 个技能**
 
 - [0g-compute](https://clawskills.sh/skills/in-liberty420-0g-compute) - Use cheap, TEE-verified AI models from the 0G Compute Network as OpenClaw providers.
 - [0protocol](https://clawskills.sh/skills/0isone-0protocol) - Agents can sign plugins, rotate credentials without losing identity, and publicly attest to behavior.

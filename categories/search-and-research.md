@@ -1,8 +1,8 @@
 # Search & Research
 
-[← Back to main list](../README.md#table-of-contents)
+[← Back to main list](../README.md#table-of-contents) | [返回中文分类导航](./README.zh-CN.md)
 
-**353 skills**
+**353 skills | 353 个技能**
 
 - [1](https://clawskills.sh/skills/nastrology-1) - Personal knowledge base powered by Ensue for capturing and retrieving.
 - [academic-deep-research](https://clawskills.sh/skills/kesslerio-academic-deep-research) - Transparent, rigorous research with full.

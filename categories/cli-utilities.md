@@ -1,8 +1,8 @@
 # CLI Utilities
 
-[← Back to main list](../README.md#table-of-contents)
+[← Back to main list](../README.md#table-of-contents) | [返回中文分类导航](./README.zh-CN.md)
 
-**180 skills**
+**180 skills | 180 个技能**
 
 - [13-day-sprint-method](https://clawskills.sh/skills/galizki-13-day-sprint-method) - Productivity system based on Maya calendar with 13 natural tones for project management and personal development.
 - [a-share-short-decision](https://clawskills.sh/skills/kenera-a-share-short-decision) - A-share short-term trading decision skill for 1-5 day horizon.

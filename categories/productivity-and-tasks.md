@@ -1,8 +1,8 @@
 # Productivity & Tasks
 
-[← Back to main list](../README.md#table-of-contents)
+[← Back to main list](../README.md#table-of-contents) | [返回中文分类导航](./README.zh-CN.md)
 
-**204 skills**
+**204 skills | 204 个技能**
 
 - [4to1-planner](https://clawskills.sh/skills/qingxuantang-4to1-planner) - AI planning coach using the 4To1 Method™ — turn 4-year vision into daily action.
 - [4todo](https://clawskills.sh/skills/blackstorm-4todo) - Manage 4todo (4to.do) from chat.

@@ -1,8 +1,8 @@
 # Security & Passwords
 
-[← Back to main list](../README.md#table-of-contents)
+[← Back to main list](../README.md#table-of-contents) | [返回中文分类导航](./README.zh-CN.md)
 
-**54 skills**
+**54 skills | 54 个技能**
 
 - [1password](https://clawskills.sh/skills/steipete-1password) - Set up and use 1Password CLI (op).
 - [1claw](https://clawskills.sh/skills/kmjones1979-1claw) - HSM-backed vault for agent secrets; store, rotate, share securely.

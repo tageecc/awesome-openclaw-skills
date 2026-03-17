@@ -1,8 +1,8 @@
 # iOS & macOS Development
 
-[← Back to main list](../README.md#table-of-contents)
+[← Back to main list](../README.md#table-of-contents) | [返回中文分类导航](./README.zh-CN.md)
 
-**29 skills**
+**29 skills | 29 个技能**
 
 - [agent-defibrillator](https://clawskills.sh/skills/hazy2go-agent-defibrillator) - Watchdog that monitors your AI agent gateway and restarts it when it crashes.
 - [android-transfer-skill](https://clawskills.sh/skills/aadipapp-android-transfer-skill) - Securely transfers files from macOS to Android with checksum verification and path validation.

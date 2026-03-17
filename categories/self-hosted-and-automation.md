@@ -1,8 +1,8 @@
 # Self-Hosted & Automation
 
-[← Back to main list](../README.md#table-of-contents)
+[← Back to main list](../README.md#table-of-contents) | [返回中文分类导航](./README.zh-CN.md)
 
-**33 skills**
+**33 skills | 33 个技能**
 
 - [beacon](https://clawskills.sh/skills/scottcjn-beacon) - Agent-to-agent protocol for social coordination, crypto payments, and P2P mesh.
 - [bridle](https://clawskills.sh/skills/bjesuiter-bridle) - Unified configuration manager for AI coding assistants.

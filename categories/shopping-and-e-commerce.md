@@ -1,8 +1,8 @@
 # Shopping & E-commerce
 
-[← Back to main list](../README.md#table-of-contents)
+[← Back to main list](../README.md#table-of-contents) | [返回中文分类导航](./README.zh-CN.md)
 
-**51 skills**
+**51 skills | 51 个技能**
 
 - [add-wish](https://clawskills.sh/skills/leebellon-add-wish) - Save any product to a universal wishlist.
 - [agentic-commerce](https://clawskills.sh/skills/purch-agent-agentic-commerce) - AI-powered shopping API for product search and crypto.

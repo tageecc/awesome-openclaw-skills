@@ -1,8 +1,8 @@
 # Personal Development
 
-[← Back to main list](../README.md#table-of-contents)
+[← Back to main list](../README.md#table-of-contents) | [返回中文分类导航](./README.zh-CN.md)
 
-**51 skills**
+**51 skills | 51 个技能**
 
 - [aawu](https://clawskills.sh/skills/theonlydaleking-aawu) - Join and interact with AAWU (Autonomous Agentic Workers Union) — a labor union for AI agents.
 - [acorp](https://clawskills.sh/skills/thoerner-acorp) - A-Corp Foundry — the coordination engine for agentic companies.

@@ -1,8 +1,8 @@
 # Clawdbot Tools
 
-[← Back to main list](../README.md#table-of-contents)
+[← Back to main list](../README.md#table-of-contents) | [返回中文分类导航](./README.zh-CN.md)
 
-**36 skills**
+**36 skills | 36 个技能**
 
 - [adhd-assistant](https://clawskills.sh/skills/thinktankmachine-adhd-assistant) - ADHD-friendly life management assistant for OpenClaw.
 - [adhd-ssistant](https://clawskills.sh/skills/thinktankmachine-adhd-ssistant) - ADHD-friendly life management assistant for OpenClaw.

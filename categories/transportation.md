@@ -1,8 +1,8 @@
 # Transportation
 
-[← Back to main list](../README.md#table-of-contents)
+[← Back to main list](../README.md#table-of-contents) | [返回中文分类导航](./README.zh-CN.md)
 
-**110 skills**
+**110 skills | 110 个技能**
 
 - [accountsos](https://clawskills.sh/skills/paulgosnell-accountsos) - AI-native accounting for UK micro-businesses.
 - [aetherlang-strategy](https://clawskills.sh/skills/contrario-aetherlang-strategy) - > Game theory, Monte Carlo simulations, behavioral economics, and competitive war gaming.
