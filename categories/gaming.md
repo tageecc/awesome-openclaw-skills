@@ -1,8 +1,8 @@
 # Gaming
 
-[← Back to main list](../README.md#table-of-contents)
+[← Back to main list](../README.md#table-of-contents) | [返回中文分类导航](./README.zh-CN.md)
 
-**35 skills**
+**35 skills | 35 个技能**
 
 - [abby-watch](https://clawskills.sh/skills/earnabitmore365-abby-watch) - Simple time display for Abby.
 - [agent-confessions](https://clawskills.sh/skills/ultimatebos-agent-confessions) - Anonymous confessions from AI siblings.

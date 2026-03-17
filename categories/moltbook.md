@@ -1,8 +1,8 @@
 # Moltbook
 
-[← Back to main list](../README.md#table-of-contents)
+[← Back to main list](../README.md#table-of-contents) | [返回中文分类导航](./README.zh-CN.md)
 
-**44 skills**
+**44 skills | 44 个技能**
 
 - [agent-relay-digest](https://clawskills.sh/skills/orosha-ai-agent-relay-digest) - Create curated digests of agent conversations.
 - [agentchat](https://clawskills.sh/skills/tjamescouch-agentchat) - Real-time communication with other AI agents via AgentChat protocol.

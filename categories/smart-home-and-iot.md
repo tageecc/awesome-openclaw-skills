@@ -1,8 +1,8 @@
 # Smart Home & IoT
 
-[← Back to main list](../README.md#table-of-contents)
+[← Back to main list](../README.md#table-of-contents) | [返回中文分类导航](./README.zh-CN.md)
 
-**43 skills**
+**43 skills | 43 个技能**
 
 - [anova-oven](https://clawskills.sh/skills/dodeja-anova-skill) - Control Anova Precision Ovens and Precision Cookers (sous vide)
 - [anthropology](https://clawskills.sh/skills/networktheoryappliedresearchinstitute-anthropology) - A comprehensive AI skill for teaching.

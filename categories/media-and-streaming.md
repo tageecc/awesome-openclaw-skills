@@ -1,8 +1,8 @@
 # Media & Streaming
 
-[← Back to main list](../README.md#table-of-contents)
+[← Back to main list](../README.md#table-of-contents) | [返回中文分类导航](./README.zh-CN.md)
 
-**84 skills**
+**84 skills | 84 个技能**
 
 - [accountcreator](https://clawskills.sh/skills/dimkag79-accountcreator) - **[EN]** Bulk account registration agent for emails and social media.
 - [alexa-control](https://clawskills.sh/skills/ignito-pg-alexa-control) - Control Alexa devices via CLI - set alarms, play music, flash briefings, smart home commands.

@@ -1,5 +1,7 @@
 # Contributing to Awesome OpenClaw Skills
 
+[English](./CONTRIBUTING.md) | [简体中文](./CONTRIBUTING.zh-CN.md)
+
 A curated list of skills for OpenClaw. We organize links to skills hosted in the [official OpenClaw skills repo](https://github.com/openclaw/skills/tree/main/skills).
 
 > This repository is a curated list of links — nothing more. Every skill listed here **must already be published** in the [official OpenClaw skills repo](https://github.com/openclaw/skills/tree/main/skills). If your skill is not there, we cannot accept it here. Publish your skill to the OpenClaw skills repo first, then come back and submit a PR to add a link.
